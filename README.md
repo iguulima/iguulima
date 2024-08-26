@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h3 align="left">Contato</h3>
 
 ###
@@ -14,8 +12,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Tecnologias</h3>
 
