@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Tecnologias</h3>
+<h3 align="left">Tecnologias que estou trabalhando e estudando!</h3>
 
 ###
 
@@ -22,7 +22,13 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Figma-2C2C2C?logo=figma&logoColor=f24e1e&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/C%23-9855F4?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" alt="javascript logo" />
 </div>
 
 ###
